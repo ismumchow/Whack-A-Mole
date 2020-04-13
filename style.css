@@ -1,0 +1,44 @@
+.square{
+    width: 200px;
+    height: 200px;
+    border-style: solid;
+    border-color:#85144b;
+    margin: 1px;
+    background-color: wheat;
+}
+.grid {
+    margin-top: -25px;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-content: center;
+    width: 660px;
+    height: 660px;
+   
+}
+
+.row {
+    justify-content: center;
+    align-content: center;
+}
+
+.mole {
+    background-image: url('./mole.png');
+    background-size: contain;
+}
+.jumbotron {
+    height: 20vh;
+}
+
+#content {
+        background-color: #e9ecef;
+}
+
+.name{
+    background-color:wheat;
+}
+
+.yahoo {
+    color:brown;
+  
+}
